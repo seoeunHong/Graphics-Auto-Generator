@@ -1,0 +1,21 @@
+ 
+ 
+1.1. SDG 7.1 Access to electricity and clean cooking 
+ 
+Figure 1. Circular Sankey Chart representing synergies and trade-offs between SDG 7.1 and other SDGs, based on 
+the JRC SDG Interlinkages Tool developed by the European Commission 
+Despite significant progress in electricity access globally, challenges persist. The COVID-19 and 
+complexities in reaching remote areas slowed progress, leaving 733 million without electricity and 2.8 
+billion people relying on polluting fuels for cooking in 2020. The majority of these populations live in sub-
+Saharan Africa, Asia, especially in Least Developed Countries (LDCs) and rural areas. Economic strains due 
+to the pandemic hindered access for up to 90 million. If trends continue, an estimated 670 million will lack 
+electricity by 2030, with one-fourth of the world's population still lacking clean cooking. Addressing this 
+gap requires a major push to assist those living in the least developed areas and in fragile and conflict-
+affected countries. The goal of ensuring universal access to affordable, reliable, and modern energy 
+services, such as electricity and clean cooking mechanisms, is framed within SDG 7.1. Its 
+interconnectedness with various goals (Figure 1) offers synergies to address multiple global challenges, 
+amplifying opportunities for education, health, food security and economic development. However, this 
+goal necessitates balancing energy sufficiency and affordability, ensuring effective battery management, 
+while guaranteeing inclusiveness and gender-responsiveness. The subsequent sections provide a concise 
+explanation of these synergies and trade-offs, supported by relevant case studies.   
+ 

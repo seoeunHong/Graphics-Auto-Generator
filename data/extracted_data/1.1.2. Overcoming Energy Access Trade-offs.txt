@@ -1,0 +1,109 @@
+ 
+ 
+ 
+ 
+ 
+1.1.2. Overcoming Energy Access Trade-offs 
+Balancing Affordability and Sufficiency: Energy sufficiency and affordability pose challenges in 
+transitioning to clean energy technologies, potentially leading to a return to polluting energy sources. Off-
+grid solutions, with low capacities, might fail to meet surging demand, necessitating a reliance on polluting 
+fuels. The lack of reliable energy availability can breed dissatisfaction among users, eroding confidence in 
+clean energy sources. A similar dilemma arises in clean cooking: high upfront costs and unreliable LPG 
+supply hinder rural communities from abandoning biomass (UCL, 2021). The United Nations Joint 
+Programme for Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL), implemented an 
+integrated approach for the reduction of charcoal consumption in Somalia (Box 5).  
+On the contrary, increased access to affordable, reliable energy can inadvertently foster wasteful water 
+consumption and overexploitation of resources, known as the "rebound effect". For instance, 
+unconventional water supply options such as desalination are highly energy-intensive (ICSU, 2017). This 
+phenomenon extends to agricultural practices. Strategies focused on energy sufficiency measures, 
+affordability mechanism, and capacity building have shown promise in mitigating these rebound effects 
+(WBG, 2017) (WLPGA, 2018). 
+ 
+ 
+ 
+ 
+Case Study 1: RBA: United Nations Joint Program for Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL) 
+Case Study: RBA: United Nations Joint Program for Sustainable Charcoal Reduction and 
+Alternative Livelihoods (PROSCAL) 
+Location: Somalia 
+Box 4: The UN Women-Joint Programme, initiated in Ethiopia in 2011, unites six UN agencies to bolster 
+gender equality and women's empowerment. With a focus on all 11 regions, it aligns with Ethiopia's 
+development frameworks, aiming to enhance women's income, education, and rights while promoting 
+leadership. Supported by Sweden and Norway, the program includes interest-free loans and business 
+skill development, creating a revolving fund for women's empowerment. Notably, the initiative has 
+enabled women, to invest in an energy-saving cooking stove cooperative, fostering economic 
+empowerment within their village and beyond.  
+ 
+ 
+ 
+https://info.undp.org/docs/pdc/Documents/SOM/PROSCAL-%20PIP%20-%202016.pdf  
+https://open.undp.org/projects/00085377  
+ 
+The United Nations Joint Program for Sustainable Charcoal Reduction and Alternative 
+Livelihoods (PROSCAL) ran from 2016 to 2022 with the objective of reducing unsustainable 
+charcoal production, trade, and usage in Somalia. It sought to bolster energy security and 
+livelihoods by engaging stakeholders, enforcing trade bans, developing alternative energy, 
+transitioning charcoal practices, and promoting reforestation. PROSCAL's interventions aimed 
+to create local economic opportunities, diminish poverty, halt environmental degradation, 
+improve energy security, foster resilience among vulnerable groups, diversify energy sources, 
+mitigate conflict, and promote peace and development. 
+ 
+  
+Ensuring Sustainable Batteries Management: Renewable-based energy access solutions, such as solar or 
+wind, heavily rely on batteries to overcome natural resources’ intermittence. However, improper 
+maintenance and disposal of batteries can lead to severe pollution, impacting human health (SDG 3) and 
+ecosystems (SDG 14-15). With millions of these products sold in recent years, effective waste management 
+will become increasingly important (Lighting Global, 2022). Stakeholders and companies must prioritize 
+robust commitment to proper battery management, covering maintenance, security standards, and 
+disposal. E-waste regulation planning is becoming integral to operational plans, fostering innovation and 
+strategic partnerships, especially in regions lacking e-waste infrastructure. For example, only a few 
+countries in sub-Saharan Africa (including Rwanda, Nigeria, Kenya and South Africa), have e-waste 
+management facilities, equipped for off-grid solar value-chain recycling, and cross-boundary movement is 
+expensive and complex. The scarcity of e-waste management facilities capable of handling end-of-life 
+products from off-grid solar necessitates immediate attention and action (Lighting Global, 2022) (other 
+sources). The Global Battery Alliance (Box 6) has emerged to tackle these challenges. In their recent report, 
+the Alliance highlights the need for pilot projects aimed at launching and scaling effective corporate 
+reverse logistics programs. Additionally, they advocate for establishing traceability and disclosure systems 
+to address these critical issues (GBA, 2021). 
+  
+ 
+ 
+ 
+The Moment of Leaving No One Behind: Remote communities lacking grid access, marked by low 
+population density, incomes, challenging terrains, and poor infrastructure, confront significant hurdles in 
+accessing electricity. These communities can be grouped into three categories: geographically remote 
+regions like rural settings, mountainous areas, small islands, and deep forests; communities with a remote 
+chance of gaining grid access, including displaced refugees due to conflict or natural disasters; and those 
+fully dependent on off-grid energy with minimal demand profiles, such as Indigenous communities. 
+Despite varying characteristics, these settlements share commonalities in low electricity needs, economic 
+and energy poverty, and a remote likelihood of obtaining grid-based electricity supply (IRENA, 2023). The 
+diverse profile of last-mile communities necessitates community-centric models to ensure tailored 
+solutions that fit their unique characteristics and needs. Successful and inclusive projects in the Hindu 
+Kush Himalaya region (Box 7) showcase effective approaches addressing the challenges of last-mile regions 
+(HIMAP, 2019) (ADB, 2023). 
+ 
+Avoiding Gender Blindness in Energy Access: Social norms and gender roles can hinder women from 
+benefiting equally from energy access initiatives, discourage them from participating in the sector’s labor 
+force, and impacting their inclusion in decision-making processes. Gender-blind initiatives counteract 
+women's equality, worsening gender gaps in energy poverty (SDG Action, 2023). Affordability mechanisms 
+that neglect women deepen dependency, as they often receive lower salaries and depend on men's 
+income. Low-capacity electricity systems, like small-capacity SHS, can perpetuate women's reliance on 
+polluting mechanisms. While clean light intends to enhance work hours, it may burden women with longer 
+schedules, reducing rest time.  
+Women are particularly vulnerable in conflict, disaster, and emergency settings, with millions forcibly 
+displaced, lacking access to modern lighting and facing risks like violence and fuel-related challenges.  
+The lack of gender-responsive training for off-grid systems can exclude women, 
+hindering initiatives and reinforcing gender inequality.  The enabling environment for 
+women's participation in the energy sector requires gender-responsive planning, 
+Box 6: The Global Battery Alliance (GBA), initiated at the World Economic Forum in 2017, aims to 
+ensure a sustainable battery value chain by 2030 through a collective effort involving international 
+organizations, NGOs, industry, academia, and governments. This alliance focuses on Action 
+Partnerships, tackling critical areas like establishing global criteria for sustainable batteries, ensuring 
+responsible sourcing of materials, and promoting energy access in emerging economies while 
+emphasizing circular practices to reduce lead poisoning and environmental impacts. 
+Box 7: Through an intervention called “Creating Self Sustainable, Smart and Low Carbon Villages”, the 
+Global Himalayan Expedition (GHE) is helping remote Himalayan communities lacking electricity 
+access to transform through locally designed, locally implemented and locally maintained solutions. 
+Their aim is to bring about holistic change by merging the elements of sustainability, clean cooking, 
+digital education, homestay tourism and solar-based electrification. Being connected with a solar grid 
+gives villages a future and protects their cultural heritage.   

@@ -1,0 +1,69 @@
+ 
+ 
+attention to trade-offs such as water stress, land use conflicts, life cycle environmental impacts and 
+governance issues, emphasizing community rights and sustainability. This section highlights complexities 
+in renewable energy's impacts and initiatives aiding comprehensive understanding of its effects. This 
+section explores renewable energy's complexities and includes case studies for a comprehensive 
+understanding of its impacts. 
+1.2.1. Advancing Sustainable Prosperity with Renewable Energy 
+Clean Energy for Climate Action: Accelerating the penetration of renewable energy aligns with the Paris 
+Agreement's goal of limiting global warming to below 2°C (SDG 13) (ICSU, 2017).  Renewable energy 
+sources are less water-intensive than conventional sources, which is highly relevant amid water scarcity 
+and erratic flows caused by climate change. The global energy system used 10% of total global freshwater 
+withdrawals in 2021, due to the essential role of water in the energy supply chain, from electricity 
+generation to fossil fuel production (IEA, 2023). The IEA’s Net Zero Emissions by 2050 Scenario predicts a 
+nearly 15% decline in water use within the power sector due to transitioning from coal to solar PV and 
+wind energy.  
+Replacing off-shore petroleum extraction by renewable energy generated from offshore wind, wave and 
+tidal power farms can contribute to conserving and sustainably using marine resources (SDG 14). 
+Upscaling of renewables will help decrease ocean acidification (via lower carbon emissions), accidental 
+impacts from energy-production and transport activities on aquatic habitats, and marine thermal 
+pollution from cooling at coastal power plants (ICSU, 2017).   
+Healthier Cities and Resilient Societies: The use of renewable energy resources directly reduces air 
+pollution. Improving air quality, and by extension human health, is especially important for those living in 
+the dense urban centers of rapidly developing countries (SDG 3) (ICSU, 2017). Resilient infrastructure, 
+inclusive industrialization, and innovation (SDG 9) are prerequisites for achieving the SDG 7.2 target (ICSU, 
+2017).  Clean energy systems, in particular, create the conditions for cities and human settlements to be 
+inclusive, safe, resilient, less-polluting, and more sustainable (SDG 11). An up-scaling of renewable energy 
+can have a large impact on the sustainability of cities and communities. Similarly, sustainable urban 
+planning, transport, and housing are key for achieving SDG 7.2, since renewable solutions are fundamental 
+pillars of the solutions portfolio. Smart grids and energy communities facilitate the development of 
+renewable energy at the domestic or neighborhood scale (ICSU, 2017). Furthermore, decentralized 
+renewable energy sources enhance resilience. This is exemplified by the City Energy Resilience 
+Framework, developed by the Resilient Cities Network (R-Cities) and Urban Power (Box 8). 
+ 
+ 
+ 
+Inclusive Working Opportunities: Renewable energy deployment bolsters innovation and reinforces local, 
+regional, and national employment objectives (SDG 8). The global renewable energy sector employs 12.7 
+million people, with significant growth in solar PV, primarily in Asia accounting for 79% of the global total. 
+Wind and hydropower, as well as liquid biofuels make up most of the rest of the growth in renewable 
+energy jobs. China dominates employment in most renewable energy sectors, however Brazil has the 
+most biofuel jobs (WEF, 2023). While gender parity remains low in the renewable energy sector and 
+technical positions, companies with at least 30% female leadership yield higher profit margins and are 
+more inclined to invest in sustainability and environmental initiatives (SDGs, 2022).  Renewable energy’s 
+value chain presents new opportunities, particularly for women (SDG 5), as greater gender diversity has 
+shown to enhance both effectiveness and financial performance. A fair energy transition is essential for 
+equalizing opportunities in employment and leadership roles, emphasizing the importance of access to 
+quality jobs and finance in empowering women and their families (UN Women). UNDP-supported 
+initiatives in Peru (Box 9) and Yemen (Box 10) showcase women's impact as clean energy promotors. 
+ 
+Case Study 2: RBLAC: e-Mujer, the Energy School for Women. 
+Case Study: RBLAC: e-Mujer, the Energy School for Women 
+Location: Perú 
+https://undp-climate.exposure.co/empowered-women  
+ 
+In Peru, e-Mujer, the Energy School for Women. This pilot project, funded by the Global 
+Environment Facility and implemented by the Peruvian Ministry of Energy and Mines and the 
+United Nations Development Programme, trains rural women to use, install, maintain, and 
+commercialize clean energy systems such as solar panels and improved cookstoves. 
+ 
+ 
+ 
+Box 8: The City Energy Resilience Framework (CERF) serves as a comprehensive guide for cities to 
+bolster their energy transition and urban resilience. It encompasses aspects of electricity 
+infrastructure, clean energy, equitable service access, emergency management, and recovery 
+strategies. As an engagement tool, CERF unites stakeholders to evaluate challenges and opportunities 
+for resilient energy systems based on local policies and initiatives. By highlighting global examples, 
+CERF encourages dialogue on adopting multi-benefit energy solutions that empower urban 
+communities to adapt and thrive amidst adversities. 
